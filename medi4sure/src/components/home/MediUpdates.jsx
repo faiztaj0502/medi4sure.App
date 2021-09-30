@@ -5,7 +5,7 @@ export const MediUpdates = () => {
             <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="logo192.png/text=First slide&bg=373940"
+                    // src="logo192.png"
                     alt="First slide"
                 />
                 <Carousel.Caption>
@@ -16,7 +16,7 @@ export const MediUpdates = () => {
             <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="logo192.png/800x400?text=Second slide&bg=282c34"
+                    // src="logo192.png"
                     alt="Second slide"
                 />
 
@@ -28,7 +28,7 @@ export const MediUpdates = () => {
             <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="logo192.png/800x400?text=Third slide&bg=20232a"
+                    // src="logo192.png"
                     alt="Third slide"
                 />
 
